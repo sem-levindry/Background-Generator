@@ -1,5 +1,20 @@
 body {
 	background-image: linear-gradient(to right, #F80000, #F8CD00);
     text-align: center;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1 {
+    font-family: 'Patua One', cursive;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+#color1, #color2 {
+    padding: 0px;
+    margin-right: 5px;
+}
+
+h3 {
+    margin-top: 90px; 
 }
